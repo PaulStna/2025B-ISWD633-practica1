@@ -71,7 +71,7 @@ Crear y ejecutar inmediatamente el contenedor **srv-web3** en modo detach usando
 docker rm <nombre contenedor>
 ```
 Eliminar el contenedor que se creó a partir de la imagen hello-world 
-# rm agitated_elgamal
+# docker rm agitated_elgamal
 
 Verificar que el contenedor que se eliminó
 <img width="1034" height="182" alt="docker rm agitated_elgamal" src="https://github.com/user-attachments/assets/07b4bd3e-739d-4026-b733-234a9eca355c" />
