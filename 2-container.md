@@ -74,7 +74,7 @@ Eliminar el contenedor que se creó a partir de la imagen hello-world
 # docker rm agitated_elgamal
 
 Verificar que el contenedor que se eliminó
-<img width="1034" height="182" alt="docker rm agitated_elgamal" src="https://github.com/user-attachments/assets/07b4bd3e-739d-4026-b733-234a9eca355c" />
+# docker ps -a 
 
 
 ### Para eliminar un contenedor que esté ejecutándose
@@ -86,7 +86,7 @@ Eliminar el contenedor **srv-web3**
 # docker rm -f srv-web3
 
 Verificar que el contenedor que se eliminó
-<img width="1030" height="138" alt="docker rm -f srv-web3" src="https://github.com/user-attachments/assets/7ccddc7a-fcfd-4d43-9b4f-3dd81efaee0b" />
+# docker ps -a 
 
 
 ### Para inspecionar un contenedor 
